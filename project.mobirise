@@ -1,0 +1,375 @@
+{
+  "settings": {
+    "name": "Site-02-24_1828",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#777777"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.9.3",
+    "siteFonts": [],
+    "uniqCompNum": 16,
+    "versionPublish": "4.9.3",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "сanonical-url": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Página | Hogwarts",
+        "meta_descr": "A Escola de Magia e Bruxaria de Hogwarts, ou simplesmente Hogwarts, é uma escola de magia para bruxos e bruxas com idade entre os onze e dezessete anos. É o palco principal para os primeiros oito filme.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://emx-hogwarts.forumeiros.com/forum\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>FÓRUM</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://emx-hogwarts.forumeiros.com/login\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"http://emx-hogwarts.forumeiros.com/register\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>REGISTRAR-SE</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hogwarts-icon-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://emx-hogwarts.forumeiros.com/forum",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "http://emx-hogwarts.forumeiros.com/forum",
+              "size": 0,
+              "newWindow": true
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://emx-hogwarts.forumeiros.com/\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Escola de Magia e Bruxaria de Hogwarts</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/541392-1600x800.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "HOGWARTS",
+                "contentAlign": "center",
+                "text": "A Escola de Magia e Bruxaria de Hogwarts, ou simplesmente Hogwarts, é uma escola de magia para bruxos e bruxas com idade entre os onze e dezessete anos. É o palco principal para os primeiros oito filmes, e sete primeiros livros da série Harry Potter, de J.K. Rowling, nos quais cada livro equivale a um ano letivo frequentado pelas personagens principais e pelas personagens do ano de Harry Potter, ou seja, nascidas em 1980.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://emx-hogwarts.forumeiros.com/login\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOGIN</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://emx-hogwarts.forumeiros.com/register\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>REGISTRAR-SE</a> ",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/541381-2000x1138.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "HOGWARTS",
+                "contentAlign": "center",
+                "text": "Hogwarts foi votada como a 36ª melhor instituição de ensino escocesa em uma lista online de 2008, superando a Loretto School, localizada em Edimburgo. Segundo um dos diretores da Listagem da Rede de Escolas Independentes, a escola fictícia foi adicionada ao ranking apenas como \"uma brincadeira\", e depois esteve disponível ao voto. Podemos então concluir que esta instituição fictícia, para a maioria dos fãs, supera qualquer outra escola ou liceu.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://emx-hogwarts.forumeiros.com/login\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOGIN&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://emx-hogwarts.forumeiros.com/register\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>REGISTRAR-SE</a>",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/541378-1920x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "HOGWARTS",
+                "contentAlign": "center",
+                "text": "A propriedade de Hogwarts é extensa, abrangendo o enorme castelo, que possui várias torres e masmorras com as respectivas salas de aulas, os professores, as salas comunais de cada casa (Ravenclaw, Gryffindor, Hufflepuff e Slytherin), os Dormitórios dos alunos, as Cozinhas de Hogwarts (onde podemos encontrar elfos domésticos), o Salão Principal, o Salão de Entrada, todos os aposentos frequentados diariamente pelos alunos, professores e funcionários.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://emx-hogwarts.forumeiros.com/login\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-user-2 mbr-iconfont mbr-iconfont-btn\"></span>LOGIN </a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://emx-hogwarts.forumeiros.com/register\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>REGISTRAR-SE</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "ESCOLHA DE MAGIA E BRUXARIA DE HOGWARTS",
+          "items": [
+            {
+              "authorName": "Funcionários de",
+              "authorBio": "Hogwarts",
+              "text": "<p>CORPO DOCENTE</p><p>O Corpo Docente de Hogwarts é responsável por lecionar aos alunos de todos os sete anos de Hogwarts, envolvem e repassam o conhecimento sobre as ramificações mais complexas e curiosas do Mundo Bruxo, preparando seus discentes para a vida além da propriedade escolar.</p>"
+            },
+            {
+              "authorName": "Funcionários",
+              "authorBio": "Subjetivos",
+              "text": "<p>FUNCIONÁRIOS SUBJETIVOS</p><p>Os Funcionários Subjetivos são aqueles que lidam em cuidar do castelo, cada um em sua área. Sem estes funcionários muitas das funções de Hogwarts não funcionariam corretamente.</p>"
+            },
+            {
+              "authorName": "Disciplinas de",
+              "authorBio": "Hogwarts",
+              "text": "<p>DISCIPLINAS DE HOGWARTS</p><p>Hogwarts, possuí suas disciplinas como qualquer outra escola. Elas são subdivididas em Disciplinas Obrigatórias e Disciplinas Opcionais. As Disciplinas Obrigatórias são: Poções, Feitiços, Historia da Magia, Defesa Contra as Artes das Trevas, Herbologia, Transfiguração, Astronomia, Duelos e Vôo (dado apenas ao 1° ano, porém alunos podem optar para verem-na se quiserem). As Disciplinas Opcionais são: Adivinhação, Trato das Criaturas Mágicas, Estudo dos Trouxas, Runas Antigas e Aritmância.</p>"
+            }
+          ],
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-9",
+          "testimonial": [
+            {
+              "authorName": "Funcionários de",
+              "authorBio": "Hogwarts",
+              "text": "<p>CORPO DOCENTE</p><p>O Corpo Docente de Hogwarts é responsável por lecionar aos alunos de todos os sete anos de Hogwarts, envolvem e repassam o conhecimento sobre as ramificações mais complexas e curiosas do Mundo Bruxo, preparando seus discentes para a vida além da propriedade escolar.</p>"
+            },
+            {
+              "authorName": "Funcionários",
+              "authorBio": "Subjetivos",
+              "text": "<p>FUNCIONÁRIOS SUBJETIVOS</p><p>Os Funcionários Subjetivos são aqueles que lidam em cuidar do castelo, cada um em sua área. Sem estes funcionários muitas das funções de Hogwarts não funcionariam corretamente.</p>"
+            },
+            {
+              "authorName": "Disciplinas de",
+              "authorBio": "Hogwarts",
+              "text": "<p>DISCIPLINAS DE HOGWARTS</p><p>Hogwarts, possuí suas disciplinas como qualquer outra escola. Elas são subdivididas em Disciplinas Obrigatórias e Disciplinas Opcionais. As Disciplinas Obrigatórias são: Poções, Feitiços, Historia da Magia, Defesa Contra as Artes das Trevas, Herbologia, Transfiguração, Astronomia, Duelos e Vôo (dado apenas ao 1° ano, porém alunos podem optar para verem-na se quiserem). As Disciplinas Opcionais são: Adivinhação, Trato das Criaturas Mágicas, Estudo dos Trouxas, Runas Antigas e Aritmância.</p>"
+            }
+          ]
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "HISTÓRIA",
+          "text": "<p>Há mais de 1000 anos Godric Griffyndor, Rowena Ravenclaw, Helga Hufflepuff e Salazar Slytherin, os maiores e melhores bruxos da época, juntaram-se para formar uma escola de magia e feitiçaria. Juntos, eles construíram o castelo de Hogwarts, com o objetivo de educar os jovens que apresentassem algum talento mágico. Todos tinham qualidades singulares e distintas, e justamente por isso eles criaram casas para dividir os alunos de acordo com os próprios interesses. A história de Hogwarts está preservada de diversas formas no grande castelo, seja nos quadros, nos livros, nos fantasmas ou no próprio dispositivo mágico usado para a divisão dos alunos em casas, o Chapéu Seletor, que era o antigo chapéu de Godric Gryffindor (fundador da Grifinória). Porém um deles, Salazar Slytherin (fundador da Sonserina), discordava dos outros três fundadores quanto à admissão dos alunos, pois queria que só fossem aceitos bruxos puro-sangue (de família inteiramente bruxa) e brigou com os outros. Construiu então a câmara secreta que só seria aberta por seu descendente para que o monstro que ela guardava eliminasse todos os nascidos Trouxas (aqueles que não tinham sangue mágico) que estivessem na escola. A entrada dessa câmara está no Banheiro Feminino da Murta Que Geme e aparece no filme Harry Potter e a Câmara Secreta.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-b"
+        },
+        {
+          "_params": {
+            "firstType": "hidden",
+            "secondType": "orange",
+            "thirdType": "favorite",
+            "fourthType": "blue",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "STANDARD",
+          "currency1": "$",
+          "price1": "0",
+          "period1": "per month",
+          "list1": "<ul><li><b>32 GB</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>15 GB</b> Bandwidth</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "OURO",
+          "currency2": "$",
+          "price2": "1",
+          "period2": "por mês<br>válidade de 30 dias",
+          "list2": "<ul><li><b>BENEFICIOS&nbsp;</b></li><li><b>1° </b>Recebe Rank de Doador</li><li><b>2°</b> Pode Mudar de Nick/Nome 2x por mês</li></ul>",
+          "button2": " <a data-app-btn=\"true\" href=\"https://pagseguro.uol.com.br/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>DOAR AGORA</a>",
+          "title3": "PREMIUM",
+          "currency3": "$",
+          "price3": "3",
+          "period3": "por mês\n<div>válidade de 30 dias</div>",
+          "list3": "<ul><li><b>BENEFICIOS \n</b></li><li><b>1°</b> Recebe Rank de Doador\n</li><li><b>2° </b>Recebe Grupo de Doador\n</li><li><b>3° </b>Recebe Glitter no Nick/Nome</li><li><b>3° </b>Pode Mudar de Nick/Nome 4x por mês</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://pagseguro.uol.com.br/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>DOAR AGORA</a>",
+          "title4": "ULTIMATE",
+          "currency4": "$",
+          "price4": "2",
+          "period4": "por mês\r<div>válidade de 30 dias</div>",
+          "list4": "<ul><li><b>BENEFICIOS \n</b></li><li><b>1°</b> Recebe Rank de Doador\n</li><li><b>2° </b>Recebe Grupo de Doador</li><li><b>3°</b> Pode Mudar de Nick/Nome 3x por mês</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://pagseguro.uol.com.br/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cash mbr-iconfont mbr-iconfont-btn\"></span>DOAR AGORA</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-f"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hogwarts-icon-128x128.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>CONTATO</strong><br>\nEmail: emxhogwarts@gmail.com<br>",
+          "text2": "<b>LINKS\n</b><br><a href=\"http://emx-hogwarts.forumeiros.com/f1-regras\" class=\"text-gray\" target=\"_blank\">Regras</a><br><a href=\"http://emx-hogwarts.forumeiros.com/login\" class=\"text-gray\">Login</a><br><a href=\"http://emx-hogwarts.forumeiros.com/registro\" class=\"text-gray\">Registro</a>",
+          "text3": "<p class=\"mbr-contacts__text\"><b>FÓRUM</b></p><p class=\"mbr-contacts__text\">Fórum criado/desenvolvido </p><p class=\"mbr-contacts__text\">por <a href=\"http://emx-hogwarts.forumeiros.com/u2\" class=\"text-gray\" target=\"_blank\">Breninh0</a></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-5",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "© Copyright 2019 Hogwarts | Todos os Direitos Reservados |&nbsp;<a href=\"https://www.forumeiros.com/\" target=\"_blank\" class=\"text-gray\">www.forumeiros.com</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-4"
+        }
+      ]
+    }
+  }
+}
